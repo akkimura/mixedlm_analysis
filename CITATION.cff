@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Mixed-effects analysis from model-input data"
+type: software
+authors:
+  - family-names: "Koizumi"
+    given-names: "Saaya"
+    orcid: "https://orcid.org/ 0009-0006-7662-5885 "
+version: 1.0.0
+date-released: 2026-09-27
